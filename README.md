@@ -23,6 +23,8 @@ A simple Python Flask example application that's ready to run on Heroku.
 
 * `git push heroku master`
 
+* `heroku open`
+
 ## Contributors
 
 * [Yefim](https://twitter.com/yefim)
